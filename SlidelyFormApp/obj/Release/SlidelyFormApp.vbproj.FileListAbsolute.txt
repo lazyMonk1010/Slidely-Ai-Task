@@ -1,0 +1,14 @@
+C:\Users\Piyus\Desktop\Task\SlidelyFormApp\bin\Release\SlidelyFormApp.exe.config
+C:\Users\Piyus\Desktop\Task\SlidelyFormApp\bin\Release\SlidelyFormApp.exe
+C:\Users\Piyus\Desktop\Task\SlidelyFormApp\bin\Release\SlidelyFormApp.pdb
+C:\Users\Piyus\Desktop\Task\SlidelyFormApp\bin\Release\SlidelyFormApp.xml
+C:\Users\Piyus\Desktop\Task\SlidelyFormApp\bin\Release\Newtonsoft.Json.dll
+C:\Users\Piyus\Desktop\Task\SlidelyFormApp\bin\Release\Newtonsoft.Json.xml
+C:\Users\Piyus\Desktop\Task\SlidelyFormApp\obj\Release\SlidelyFormApp.vbproj.AssemblyReference.cache
+C:\Users\Piyus\Desktop\Task\SlidelyFormApp\obj\Release\SlidelyFormApp.Resources.resources
+C:\Users\Piyus\Desktop\Task\SlidelyFormApp\obj\Release\SlidelyFormApp.vbproj.GenerateResource.cache
+C:\Users\Piyus\Desktop\Task\SlidelyFormApp\obj\Release\SlidelyFormApp.vbproj.CoreCompileInputs.cache
+C:\Users\Piyus\Desktop\Task\SlidelyFormApp\obj\Release\SlidelyF.E63FE044.Up2Date
+C:\Users\Piyus\Desktop\Task\SlidelyFormApp\obj\Release\SlidelyFormApp.exe
+C:\Users\Piyus\Desktop\Task\SlidelyFormApp\obj\Release\SlidelyFormApp.xml
+C:\Users\Piyus\Desktop\Task\SlidelyFormApp\obj\Release\SlidelyFormApp.pdb

@@ -1,0 +1,28 @@
+{
+  "submissions": [
+    {
+      "Name": "John Doe",
+      "Email": "john@example.com",
+      "PhoneNumber": "1234567890",
+      "GithubLink": "https://github.com/johndoe"
+    },
+    {
+      "Name": "Jerry",
+      "Email": "jerry@example.com",
+      "PhoneNumber": "9876543210",
+      "GithubLink": "https://github.com/jerry"
+    },
+    {
+      "Name": "Jack",
+      "Email": "jack@example.com",
+      "PhoneNumber": "1435346667",
+      "GithubLink": "https://github.com/jack"
+    },
+    {
+      "Name": "giini",
+      "Email": "jaingin@gmail.com",
+      "PhoneNumber": "12355678900",
+      "GithubLink": "lazymonl@github"
+    }
+  ]
+}

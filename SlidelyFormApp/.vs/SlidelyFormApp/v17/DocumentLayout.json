@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Piyus\\Desktop\\Task\\SlidelyFormApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B2288D-EE23-43CA-A18E-01531C14CA8E}|SlidelyFormApp.vbproj|C:\\Users\\Piyus\\Desktop\\Task\\SlidelyFormApp\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C3B2288D-EE23-43CA-A18E-01531C14CA8E}|SlidelyFormApp.vbproj|solutionrelative:mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B2288D-EE23-43CA-A18E-01531C14CA8E}|SlidelyFormApp.vbproj|c:\\users\\piyus\\desktop\\task\\slidelyformapp\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C3B2288D-EE23-43CA-A18E-01531C14CA8E}|SlidelyFormApp.vbproj|solutionrelative:createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B2288D-EE23-43CA-A18E-01531C14CA8E}|SlidelyFormApp.vbproj|C:\\Users\\Piyus\\Desktop\\Task\\SlidelyFormApp\\submissiondata.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C3B2288D-EE23-43CA-A18E-01531C14CA8E}|SlidelyFormApp.vbproj|solutionrelative:submissiondata.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B2288D-EE23-43CA-A18E-01531C14CA8E}|SlidelyFormApp.vbproj|C:\\Users\\Piyus\\Desktop\\Task\\SlidelyFormApp\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C3B2288D-EE23-43CA-A18E-01531C14CA8E}|SlidelyFormApp.vbproj|solutionrelative:viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 158,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubmissionData.vb",
+              "DocumentMoniker": "C:\\Users\\Piyus\\Desktop\\Task\\SlidelyFormApp\\SubmissionData.vb",
+              "RelativeDocumentMoniker": "SubmissionData.vb",
+              "ToolTip": "C:\\Users\\Piyus\\Desktop\\Task\\SlidelyFormApp\\SubmissionData.vb",
+              "RelativeToolTip": "SubmissionData.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T13:26:43.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateSubmissionForm.vb",
+              "DocumentMoniker": "C:\\Users\\Piyus\\Desktop\\Task\\SlidelyFormApp\\CreateSubmissionForm.vb",
+              "RelativeDocumentMoniker": "CreateSubmissionForm.vb",
+              "ToolTip": "C:\\Users\\Piyus\\Desktop\\Task\\SlidelyFormApp\\CreateSubmissionForm.vb",
+              "RelativeToolTip": "CreateSubmissionForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T13:26:21.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewSubmissionsForm.vb",
+              "DocumentMoniker": "C:\\Users\\Piyus\\Desktop\\Task\\SlidelyFormApp\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "ViewSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\Piyus\\Desktop\\Task\\SlidelyFormApp\\ViewSubmissionsForm.vb",
+              "RelativeToolTip": "ViewSubmissionsForm.vb",
+              "ViewState": "AQIAAIIAAAAAAAAAAAA0wIQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T13:25:59.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.vb",
+              "DocumentMoniker": "C:\\Users\\Piyus\\Desktop\\Task\\SlidelyFormApp\\MainForm.vb",
+              "RelativeDocumentMoniker": "MainForm.vb",
+              "ToolTip": "C:\\Users\\Piyus\\Desktop\\Task\\SlidelyFormApp\\MainForm.vb",
+              "RelativeToolTip": "MainForm.vb",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowBcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T13:24:43.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 242,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
